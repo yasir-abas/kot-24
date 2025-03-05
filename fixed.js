@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
   };
 
   // Google AI Studio API Configuration
-  const API_KEY = "AIzaSyCQoLYRNKBTE_GmUhs34XwTV5MeGoydmoI";
+  const API_KEY = "Your API Key";
   const API_URL =
     "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent";
 
